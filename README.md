@@ -1,20 +1,3 @@
-This is your group repo for your final project for COGS108.
+##About The Project
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
-
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
-
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+For our final research project in COGS 108: Data Science in Practice, my team and I studied how specific sociodemographic factors can affect the quality of a romantic relationship, specifically focusing on age, income, and education differences between partners. We used data from the survey, "How Couples Meet and Stay Together (HCMST)" that was conducted by a group from Stanford in 2017 to investigate how Americans meet their spouses and romantic partners, which included details on relationship dynamics and quality, and sociodemographic variables. Our hypothesis was that the greater the difference in age, income, and education, the lower the relationship quality as this implies more conflicting expectations of one another regarding priorities in lifestyles and career goals, affecting overall relationship compatibility. To analyze this, we used varying plotting methods and the Chi-Square test.
